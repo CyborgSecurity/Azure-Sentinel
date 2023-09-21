@@ -12,7 +12,7 @@
             "instructions": [
                 {
                     "parameters": {
-                        "text": "Use the following link to find your Azure Tentant ID <a href=\"https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/how-to-find-tenant\">How to find your Azure Active Directory tenant ID</a>",
+                        "text": "Use the following link to find your Azure Tenant ID <a href=\"https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/how-to-find-tenant\">How to find your Azure Active Directory tenant ID</a>",
                         "visible": true,
                         "inline": true
                     },
